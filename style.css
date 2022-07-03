@@ -1,0 +1,12 @@
+p {
+  color: rgb(0 79 88);
+}
+
+.container {
+  width: 700px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
