@@ -10,3 +10,7 @@ p {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+img {
+  max-width: 100%;
+}
